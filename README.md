@@ -1,0 +1,1 @@
+# ubuntu-details-after-installation
